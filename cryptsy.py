@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Copyright (c) 2013 Lea Verou. All rights reserved.
+# Copyright (c) 2013 David Moore. All rights reserved.
 
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the "Software"),
